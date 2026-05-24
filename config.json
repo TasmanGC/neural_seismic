@@ -1,0 +1,18 @@
+{
+  "database": {
+    "path": "experiment.db"
+  },
+  "experiment": {
+    "train_vali_split": 0.6,
+    "train_size": 6000,
+    "coppens_window": 50,
+    "num_samples": null
+  },
+  "training": {
+    "optimizer": "Adamax",
+    "hidden_neurons": 10,
+    "hidden_layers": 1,
+    "steps_per_epoch": 100,
+    "epochs": 5
+  }
+}

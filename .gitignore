@@ -1,1 +1,7 @@
 *.png
+*.pyc
+*.db
+*.db-shm
+*.db-wal
+*.egg-info
+*.p
